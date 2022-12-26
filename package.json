@@ -1,6 +1,7 @@
 {
   "name": "frontend",
   "type": "module",
+  "homepage":"https://github.com/victorlight0114/111-1-web-deploy.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
